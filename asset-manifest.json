@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Obinna-Portfolio/static/css/main.591f2783.css",
-    "main.js": "/Obinna-Portfolio/static/js/main.446ec242.js",
+    "main.css": "/Obinna-Portfolio/static/css/main.f467b86e.css",
+    "main.js": "/Obinna-Portfolio/static/js/main.48abc8aa.js",
     "static/js/787.3f341696.chunk.js": "/Obinna-Portfolio/static/js/787.3f341696.chunk.js",
     "static/media/OBINNA FRANKLIN DURU - CV.pdf": "/Obinna-Portfolio/static/media/OBINNA FRANKLIN DURU - CV.6158eaa80398c8a4236f.pdf",
     "static/media/Digital_Card.png": "/Obinna-Portfolio/static/media/Digital_Card.f15e4c49ff35a88be30f.png",
@@ -13,12 +13,12 @@
     "static/media/css.png": "/Obinna-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Obinna-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Obinna-Portfolio/index.html",
-    "main.591f2783.css.map": "/Obinna-Portfolio/static/css/main.591f2783.css.map",
-    "main.446ec242.js.map": "/Obinna-Portfolio/static/js/main.446ec242.js.map",
+    "main.f467b86e.css.map": "/Obinna-Portfolio/static/css/main.f467b86e.css.map",
+    "main.48abc8aa.js.map": "/Obinna-Portfolio/static/js/main.48abc8aa.js.map",
     "787.3f341696.chunk.js.map": "/Obinna-Portfolio/static/js/787.3f341696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.591f2783.css",
-    "static/js/main.446ec242.js"
+    "static/css/main.f467b86e.css",
+    "static/js/main.48abc8aa.js"
   ]
 }
